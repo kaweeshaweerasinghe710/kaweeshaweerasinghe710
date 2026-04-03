@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Kaweesha Weerasinghe
+
+  
+ # 👋 Hi, I'm Kaweesha Weerasinghe
+
 
 <div align="center">
   
-  <img src="" alt="Kaweesha Weerasinghe" width="200" style="border-radius: 50%; border: 3px solid #00d9ff;" />
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Engineer+%F0%9F%9A%80;AI+Enthusiast+%F0%9F%A4%96;Creative+Problem+Solver+%F0%9F%92%A1)
 
@@ -10,9 +13,11 @@
   
 </div>
 
----
 
-## 🚀 About Me
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px height=90px></picture> About me
+
+
 
 🎓 **Graduated** from University of Moratuwa  
 💻 **Passionate** about creating innovative software solutions  
@@ -20,9 +25,8 @@
 🤖 **AI Enthusiast** exploring agentic systems  
 🔧 **DevOps Advocate** automating everything possible  
 
----
 
-## 📫 Let's Connect!
+
 
 <div align="center">
 
@@ -33,7 +37,7 @@
 
 </div>
 
----
+
 
 ## 🛠️ Tech Stack
 
