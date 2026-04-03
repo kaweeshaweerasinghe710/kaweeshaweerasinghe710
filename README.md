@@ -5,13 +5,14 @@
 
 <div align="center">
   
-  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Full-Stack+Engineer+%F0%9F%9A%80;AI+Enthusiast+%F0%9F%A4%96;Creative+Problem+Solver+%F0%9F%92%A1)
 
   ![Profile Views](https://komarev.com/ghpvc/?username=kaweeshaweerasinghe710&label=Profile%20views&color=00d9ff&style=for-the-badge)
   
 </div>
+ <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
 
