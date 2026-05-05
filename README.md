@@ -20,7 +20,7 @@
 
 
 
-🎓 **Graduated** from University of Moratuwa  
+🎓 **Underaduated** from University of Moratuwa  
 💻 **Passionate** about creating innovative software solutions  
 🌟 **Full-Stack Developer** who engineers the future  
 🤖 **AI Enthusiast** exploring agentic systems  
